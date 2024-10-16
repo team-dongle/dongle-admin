@@ -20,7 +20,6 @@ const GlobalStyle = createGlobalStyle`
 
     &:link, &:visited {
         text-decoration: none;
-        color: inherit;
     }
 
     button {
