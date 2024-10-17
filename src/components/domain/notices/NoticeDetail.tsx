@@ -143,8 +143,10 @@ const SC = {
       width: 100%;
       height: auto;
       padding-left: 25px;
-      & > a {
+      & a:link,
+      a:visited {
         font-size: 1.5rem;
+        color: #737373;
       }
     `,
   },
