@@ -151,6 +151,7 @@ const SC = {
   Title: styled.h1`
     font-size: 2.75rem;
     font-weight: 500;
+    color: black;
   `,
   Divider: styled.hr`
     width: 100%;
